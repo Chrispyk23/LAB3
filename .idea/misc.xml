@@ -6,6 +6,7 @@
         <entry key="..\:/Users/chris/AndroidStudioProjects/Lab32/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/chris/AndroidStudioProjects/Lab32/app/src/main/res/layout/fragment_distance.xml" value="0.17119565217391305" />
         <entry key="..\:/Users/chris/AndroidStudioProjects/Lab32/app/src/main/res/layout/fragment_temp.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/chris/AndroidStudioProjects/Lab32/app/src/main/res/layout/fragment_tip.xml" value="0.12708333333333333" />
       </map>
     </option>
   </component>
@@ -14,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
   </component>
 </project>
